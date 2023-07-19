@@ -1,10 +1,16 @@
-# Webp-Converter
+# DEPRECATED
+
+Used to create the newer [compress](https://github.com/chubkey3/compress) library.
+
+It can be installed using ```npm install @chubkey/compress```
+
+## Webp-Converter
 Converts a folder of image into webp format while keeping the same file structure.
 
 <br>
 Configure by adding a <code>.env</code> file.
 
-# Example <code>.env</code>
+## Example <code>.env</code>
 
 ```
 TARGET="C:\Users\jason\test\Projects\webp-converter\images" <-- folder of images to be converted
